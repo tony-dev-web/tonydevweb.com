@@ -6,4 +6,4 @@
 <p>Developpeur Django/Python</p>
 <p>Administrateur systme Linux</p>
 <p>Rendez vous sur <a href="https://tonydevweb.com/">tonydevweb.com</a></p>
-<img src="[https://github.com/tony-dev-web/tonydevweb.com/blob/main/logo.png?raw=true](https://github.com/tony-dev-web/tonydevweb.com/blob/main/favicon.jpg)https://github.com/tony-dev-web/tonydevweb.com/blob/main/favicon.jpg" alt="Tony developpeur python" style="max-width: 100%;margin:auto">
+<img src="https://github.com/tony-dev-web/tonydevweb.com/blob/main/favicon.jpg" alt="Tony developpeur python" style="max-width: 100%;margin:auto">
