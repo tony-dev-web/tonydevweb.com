@@ -4,5 +4,5 @@
 <h1>Tony dev web - Développeur Fullstack Python via le Framework Django</h1>
 
 <p>Developpeur Django/Python</p>
-<p>Administrateur systme Linux</p>
+<p>Administrateur système Linux</p>
 <p>Rendez vous sur <a href="https://tonydevweb.com/">tonydevweb.com</a></p>
